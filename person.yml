@@ -2,7 +2,7 @@ extra:
   personnes:
     jeremy:
       name: Jérémy Prime
-      photo: /assets/img/person/jeremy.jpg
+      photo: /docs/assets/images/equipe/jeremy.jpg
       page: /a-propos/equipe/#jeremy-prime-technicien-en-documentation
     indiana:
       name: Indiana Delsart
